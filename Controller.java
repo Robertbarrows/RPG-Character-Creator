@@ -6,7 +6,6 @@
  * @version 2/11/2017
  */
 public class Controller {
-;
 	public static void main(String[] args) {
 		View frm = new View("Character Selection");
 
